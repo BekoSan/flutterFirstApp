@@ -6,7 +6,7 @@ A new Flutter project.
 
 28 - 3 - 2021
 
-Today i learnd this topics
+Today i learned this topics
 
 - Scaffold & AppBar Widgets
     - scaffold is main widget  layout for the app
