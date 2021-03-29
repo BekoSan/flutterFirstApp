@@ -27,11 +27,7 @@ class Home extends StatelessWidget {
           ],
         ),
       ),
-
       backgroundColor: Colors.blue[300],
-      // floatingActionButton: FloatingActionButton(
-      //   child: Text('Click'),
-      // ),
     );
   }
 }
